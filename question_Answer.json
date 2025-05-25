@@ -1,0 +1,86 @@
+{
+  "queries": [
+    {
+      "question": "Benefits of Organic Farming in Gujarat",
+      "answer": {
+        "overview": "Organic farming in Gujarat has several benefits, including improved soil health, increased crop yields, and enhanced biodiversity. It also provides economic benefits to farmers, such as increased income and improved livelihoods.",
+        "control_methods": "Promoted through Gujarat Government's Organic Farming Policy with financial support for conversion.",
+        "best_practices": ["Using natural fertilizers and pest control methods", "Implementing crop rotation and intercropping techniques", "Using cover crops to improve soil health", "Implementing conservation agriculture practices"],
+        "tnau_icar_recommendations": ["Use of organic amendments such as compost and manure", "Crop rotation and intercropping", "Natural pest control methods", "Conservation agriculture"],
+        "additional_points": ["Support through organic farming clusters", "Training and capacity building", "Organic certification systems"]
+      }
+    },
+    {
+      "question": "Government schemes available for wheat crop in Rajasthan",
+      "answer": {
+        "overview": "Schemes support farmers and ensure fair crop prices.",
+        "control_methods": "MSP fixed at Rs 2,425/quintal. NFSM on Wheat and Pulses since 2007-08.",
+        "best_practices": ["Interest-free loans of Rs 25,000 crore", "Rs 150 MSP bonus", "PM-KISAN increased to Rs 8,000/year"],
+        "additional_information": ["Rajasthan Krishak Samarthan Yojana", "NFSM implementation", "Supportive financial schemes"]
+      }
+    },
+    {
+      "question": "How to control aphids in tomato plants?",
+      "answer": {
+        "overview": "Aphids damage tomato plants and reduce yields.",
+        "control_methods": ["Neem oil or insecticidal soap", "Lady beetles/lacewings", "Sticky/yellow traps", "Insecticides as last resort"],
+        "best_practices": ["Regular monitoring", "Good sanitation", "Resistant varieties", "Minimize insecticide use"],
+        "tnau_icar_recommendations": ["2–3% neem oil or insecticidal soap", "Use of natural predators", "Sticky/yellow traps"]
+      }
+    },
+    {
+      "question": "Information on Pradhan Mantri Kisan Samman Nidhi scheme status",
+      "answer": {
+        "overview": "PM-KISAN provides income support to landholding farmer families.",
+        "control_methods": "Rs 6,000/year in 3 equal installments via DBT.",
+        "best_practices": ["Supports SMFs to ensure crop health and yield"],
+        "tnau_icar_recommendations": "Implemented by NIC and Ministry of Agriculture and Farmers Welfare.",
+        "additional_information": ["Online, direct fund transfer", "Started from 01.12.2018", "Kisan Credit Card support"]
+      }
+    },
+    {
+      "question": "Advice on soil erosion control measures for hilly farms",
+      "answer": {
+        "overview": "Soil erosion in hilly areas is caused by natural and human factors.",
+        "control_methods": ["Crop selection", "Slope erosion control", "Cover crops", "Terracing", "Conservation tillage"],
+        "best_practices": ["Sustainable land use", "Agroforestry", "Permaculture", "Contour farming"],
+        "tnau_icar_recommendations": ["Cover crops", "Contour farming", "Conservation tillage"]
+      }
+    },
+    {
+      "question": "Farmer complaint about white fly infestation on bitter gourd",
+      "answer": {
+        "overview": "White flies damage leaves and reduce fruit quality and yield.",
+        "control_methods": ["Non-chemical pest management", "Mythomyl spray", "Ailanthus/cashew leaf extract", "Carbaryl/malathion trap crop", "Poison baiting"],
+        "best_practices": ["Regular crop monitoring", "Use natural/chemical controls", "Maintain plant health"]
+      }
+    },
+    {
+      "question": "Details about crop insurance scheme for horticulture farmers",
+      "answer": {
+        "overview": "Crop insurance offers financial protection from uncertainty.",
+        "control_methods": "Farmers buy policies covering disease, weather, and market risks.",
+        "best_practices": ["Follow good agricultural practices", "Maintain records", "Engage with crop insurance agent"],
+        "additional_points": ["Helps ensure income security", "Plans available via certified agents"]
+      }
+    },
+    {
+      "question": "How to improve water retention in sandy soil?",
+      "answer": {
+        "overview": "Water retention is key for sandy soil productivity.",
+        "control_methods": ["Superabsorbent hydrogels (SAHs)", "Peat moss, feldspathic sandstone, coconut coir", "Superabsorbent polymers (SAPs)"] ,
+        "best_practices": ["Select amendments based on soil need", "Follow correct application", "Monitor and adjust"] ,
+        "additional_points": ["Sandy soil has lowest retention", "Organic amendments boost retention"]
+      }
+    },
+    {
+      "question": "Farmer asked irrigation management details of coriander crop",
+      "answer": {
+        "overview": "Coriander needs efficient irrigation to optimize water use.",
+        "control_methods": ["Split irrigation with 60% ETc", "Interval of 60 min between pulses"],
+        "best_practices": ["Use drip irrigation", "Forecast water needs accurately"],
+        "tnau_icar_recommendations": "No specific TNAU/ICAR info found."
+      }
+    }
+  ]
+}
